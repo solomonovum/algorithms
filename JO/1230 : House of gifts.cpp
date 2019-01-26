@@ -52,7 +52,7 @@ int main() {
 	// get house length
 	cin >> HouseLength;
 
-  // house length check
+ 	// house length check
 	if (HouseLength > 10) {
 		return 0;
 	}
