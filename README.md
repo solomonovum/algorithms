@@ -13,3 +13,6 @@ organizing useful algorithms by c++, go
 * [530. Minimum Absolute Difference in BST](https://github.com/solomonovum/algorithms/blob/master/leetcode/429_N-ary%20Tree%20Level%20Order%20Traversal.cpp) 
 * [921. Minimum Add to Make Parentheses Valid](https://github.com/solomonovum/algorithms/blob/master/leetcode/921_Minimum%20Add%20to%20Make%20Parentheses%20Valid.go) 
 * [692. Top K Frequent Words](https://github.com/solomonovum/algorithms/blob/master/leetcode/692_Top%20K%20Frequent%20Words.go) 
+
+### Jung Ol
+* [1230. House of gifts](https://github.com/solomonovum/algorithms/blob/master/JO/1230%20:%20House%20of%20gifts.cpp)
