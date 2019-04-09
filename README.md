@@ -8,6 +8,7 @@ organizing useful algorithms by c++, go
 
 ### leetcode
 * [46. Permutations](https://github.com/solomonovum/algorithms/blob/master/leetcode/46_Permutations.go) 
+* [108. Convert Sorted Array to Binary Search Tree](https://github.com/solomonovum/algorithms/blob/master/leetcode/108_Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.cpp) 
 * [205. Isomorphic Strings](https://github.com/solomonovum/algorithms/blob/master/leetcode/205_Isomorphic%20Strings.go) 
 * [429. N-ary Tree Level Order Traversal](https://github.com/solomonovum/algorithms/blob/master/leetcode/429_N-ary%20Tree%20Level%20Order%20Traversal.cpp) 
 * [442. Find All Duplicates in an Array](https://github.com/solomonovum/algorithms/blob/master/leetcode/442_Find%20All%20Duplicates%20in%20an%20Array.go) 
