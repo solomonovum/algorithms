@@ -15,6 +15,7 @@ organizing useful algorithms by c++, go
 * [530. Minimum Absolute Difference in BST](https://github.com/solomonovum/algorithms/blob/master/leetcode/429_N-ary%20Tree%20Level%20Order%20Traversal.cpp) 
 * [692. Top K Frequent Words](https://github.com/solomonovum/algorithms/blob/master/leetcode/692_Top%20K%20Frequent%20Words.go) 
 * [771. Jewels and Stones](https://github.com/solomonovum/algorithms/blob/master/leetcode/771_Jewels%20and%20Stones.go)
+* [804. Unique Morse Code Words](https://github.com/solomonovum/algorithms/blob/master/leetcode/804_Unique%20Morse%20Code%20Words.py)
 * [921. Minimum Add to Make Parentheses Valid](https://github.com/solomonovum/algorithms/blob/master/leetcode/921_Minimum%20Add%20to%20Make%20Parentheses%20Valid.go) 
 * [929. Unique Email Addresses](https://github.com/solomonovum/algorithms/blob/master/leetcode/929_Unique%20Email%20Addresses.go) 
 * [1021. Remove Outermost Parentheses](https://github.com/solomonovum/algorithms/blob/master/leetcode/1021_Remove%20Outermost%20Parentheses.py) 
