@@ -8,10 +8,11 @@ class Node:
 # Singly linked list class
 class SinglyLinkedList(object):
     """" Iterator method """
+
     def __init__(self):
         self._total_size = 0
-        self._tail = None
-        self._head = Node(0)  # Dummy node for iterator starting position
+        self._head = Node(None)  # Dummy node for iterator starting position
+        self._tail = self._head
 
     def __iter__(self):
         self._current_index = -1
@@ -51,35 +52,33 @@ class SinglyLinkedList(object):
     def append(self, item):
         """Add an item to the end."""
 
-        # make a node
+        # Make a node.
         new_node = Node(item)
 
-        # head
+        # Head is None
         if self._head.next is None:
             self._head.next = new_node
-        # tail
-        elif self._tail is not None:
-            self._tail.next = new_node
+            self._tail = self._head.next
 
-        self._tail = new_node
-
+        self._tail.next = new_node
+        self._tail_handling(self._total_size - 1, new_node)
         self._total_size += 1
 
     def insert(self, index, item):
         """Insert an item at a given position."""
 
-        # find position
+        # Find a position.
         previous_node = self._find_previous_node(index)
 
         if previous_node is None:
             return
 
-        # insert item
+        # Insert an item.
         new_node = Node(item)
         new_node.next = previous_node.next
         previous_node.next = new_node
 
-        # tail handling
+        # Tail handling
         self._tail_handling(index, new_node)
 
         self._total_size += 1
@@ -92,7 +91,7 @@ class SinglyLinkedList(object):
 
         previous_node.next = previous_node.next.next
 
-        # tail handling
+        # Tail handling
         self._tail_handling(index, previous_node)
 
         self._total_size -= 1
@@ -103,11 +102,14 @@ class SinglyLinkedList(object):
         if index is -1:
             index = self.size() - 1
 
+            if index < 0:
+                raise IndexError(f'{index} is wrong.')
+
         previous_node = self._find_previous_node(index)
         item = previous_node.next.item
         previous_node.next = previous_node.next.next
 
-        # tail handling
+        # Tail handling
         self._tail_handling(index, previous_node)
 
         self._total_size -= 1
@@ -144,7 +146,7 @@ class SinglyLinkedList(object):
 
     def sort(self):
         """Sort the items of the list in place."""
-        self._head = sorted(self._head, key=lambda node: self._head.item)
+        pass
 
     def reverse(self):
         """ Reverse the elements of the list in place."""
@@ -157,11 +159,10 @@ class SinglyLinkedList(object):
             prev_node = current_node.next
             current_node.next = next_node  # Attach the next node.
             next_node = current_node  # For current node -> next node(reverse) in the next loop.
-            current_node = prev_node  # move the next node to repeat
+            current_node = prev_node  # move the next node to repeat.
 
         self._head.next = self._tail
 
     def size(self):
         """Get node size in the linked list."""
         return self._total_size
-
