@@ -1,5 +1,5 @@
 def quick_sort(data):
-    """To sort data as an increase order by bubble sort method."""
+    """To sort data as an increase order by divide and conquer method."""
 
     def q_sort(left_index, right_index):
         """Do quicksort recursively."""
