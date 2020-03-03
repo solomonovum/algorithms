@@ -23,7 +23,7 @@ def quick_sort(data):
         pivot, pivot_index = data[high_index], high_index
         high_index -= 1
 
-        while low_index < high_index:
+        while low_index <= high_index:
             while data[low_index] < pivot:
                 low_index += 1
             while data[high_index] > pivot:
