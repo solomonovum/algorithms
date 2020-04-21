@@ -1,0 +1,28 @@
+    def getImportance(self, employees: [Employee], id: int) -> int:
+        # map
+        emap = {e.id: e for e in employees}
+
+        # find a list for first id
+        run_queue = [emap[id]]
+
+        total_importance_value = 0
+
+        ready_queue = []
+
+        while run_queue:
+            # count importance value
+            total_importance_value += run_queue[0].importance
+
+            # enqueue next employee(s)
+            for emp in run_queue[0].subordinates:
+                # enqueue
+                ready_queue.append(emap[emp])
+
+            del run_queue[0]
+
+            # replace queue
+            if len(run_queue) is 0:
+                run_queue = ready_queue.copy()
+                ready_queue.clear()
+
+        return total_importance_value
