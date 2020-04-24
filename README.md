@@ -22,6 +22,7 @@ organizing useful algorithms by c++, go
 * [804. Unique Morse Code Words](https://github.com/solomonovum/algorithms/blob/master/leetcode/804_Unique%20Morse%20Code%20Words.py)
 * [921. Minimum Add to Make Parentheses Valid](https://github.com/solomonovum/algorithms/blob/master/leetcode/921_Minimum%20Add%20to%20Make%20Parentheses%20Valid.go) 
 * [929. Unique Email Addresses](https://github.com/solomonovum/algorithms/blob/master/leetcode/929_Unique%20Email%20Addresses.go) 
+* [993. Cousins in Binary Tree](https://github.com/solomonovum/algorithms/blob/master/leetcode/993_Cousins%20in%20Binary%20Tree.go) 
 * [1021. Remove Outermost Parentheses](https://github.com/solomonovum/algorithms/blob/master/leetcode/1021_Remove%20Outermost%20Parentheses.py) 
 
 
