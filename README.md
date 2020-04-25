@@ -10,6 +10,7 @@ organizing useful algorithms by c++, go
 * [1. TwoSum](https://github.com/solomonovum/algorithms/blob/master/leetcode/1_TwoSum.go) 
 * [46. Permutations](https://github.com/solomonovum/algorithms/blob/master/leetcode/46_Permutations.go) 
 * [79. Word Search](https://github.com/solomonovum/algorithms/blob/master/leetcode/79_Word%20Search.go) 
+* [101. Symmetric Tree](https://github.com/solomonovum/algorithms/blob/master/leetcode/101_Symmetric%20Tree.py)
 * [107. Binary Tree Level Order Traversal II](https://github.com/solomonovum/algorithms/blob/master/leetcode/107_Binary%20Tree%20Level%20Order%20Traversal%20II.py)
 * [108. Convert Sorted Array to Binary Search Tree](https://github.com/solomonovum/algorithms/blob/master/leetcode/108_Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.cpp) 
 * [205. Isomorphic Strings](https://github.com/solomonovum/algorithms/blob/master/leetcode/205_Isomorphic%20Strings.go) 
