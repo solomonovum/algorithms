@@ -29,8 +29,7 @@ organizing useful algorithms by c++, go
 * [929. Unique Email Addresses](https://github.com/solomonovum/algorithms/blob/master/leetcode/929_Unique%20Email%20Addresses.go) 
 * [993. Cousins in Binary Tree](https://github.com/solomonovum/algorithms/blob/master/leetcode/993_Cousins%20in%20Binary%20Tree.go) 
 * [1021. Remove Outermost Parentheses](https://github.com/solomonovum/algorithms/blob/master/leetcode/1021_Remove%20Outermost%20Parentheses.py) 
-
-
+* [1047. Remove All Adjacent Duplicates In String](https://github.com/solomonovum/algorithms/blob/master/leetcode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py)
 
 ### jung ol
 * [1230. House of gifts](https://github.com/solomonovum/algorithms/blob/master/JO/1230%20:%20House%20of%20gifts.cpp)
