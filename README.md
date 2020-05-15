@@ -23,6 +23,7 @@ organizing useful algorithms by c++, go
 * [771. Jewels and Stones](https://github.com/solomonovum/algorithms/blob/master/leetcode/771_Jewels%20and%20Stones.go)
 * [733. Flood Fill](https://github.com/solomonovum/algorithms/blob/master/leetcode/733_Flood%20Fill.py)
 * [804. Unique Morse Code Words](https://github.com/solomonovum/algorithms/blob/master/leetcode/804_Unique%20Morse%20Code%20Words.py)
+* [844. Backspace String Compare](https://github.com/solomonovum/algorithms/blob/master/leetcode/844_Backspace%20String%20Compare.py)
 * [872. Leaf-Similar Trees](https://github.com/solomonovum/algorithms/blob/master/leetcode/872_Leaf-Similar%20Trees.py)
 * [897. Increasing Order Search Tree](https://github.com/solomonovum/algorithms/blob/master/leetcode/897_Increasing%20Order%20Search%20Tree.py)
 * [921. Minimum Add to Make Parentheses Valid](https://github.com/solomonovum/algorithms/blob/master/leetcode/921_Minimum%20Add%20to%20Make%20Parentheses%20Valid.go) 
