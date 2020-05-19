@@ -8,6 +8,7 @@ organizing useful algorithms by c++, go
 
 ### leetcode
 * [1. TwoSum](https://github.com/solomonovum/algorithms/blob/master/leetcode/1_TwoSum.go) 
+* [20. Valid Parentheses](https://github.com/solomonovum/algorithms/blob/master/leetcode/20_Valid%20Parentheses.py)
 * [46. Permutations](https://github.com/solomonovum/algorithms/blob/master/leetcode/46_Permutations.go) 
 * [79. Word Search](https://github.com/solomonovum/algorithms/blob/master/leetcode/79_Word%20Search.go) 
 * [101. Symmetric Tree](https://github.com/solomonovum/algorithms/blob/master/leetcode/101_Symmetric%20Tree.py)
