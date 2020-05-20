@@ -1,5 +1,5 @@
 # algorithms
-organizing useful algorithms by c++, go  
+organizing useful algorithms by c++, go, python3  
 
 
 ### selection algorithm
