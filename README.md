@@ -33,6 +33,9 @@ organizing useful algorithms by c++, go
 * [993. Cousins in Binary Tree](https://github.com/solomonovum/algorithms/blob/master/leetcode/993_Cousins%20in%20Binary%20Tree.go) 
 * [1021. Remove Outermost Parentheses](https://github.com/solomonovum/algorithms/blob/master/leetcode/1021_Remove%20Outermost%20Parentheses.py) 
 * [1047. Remove All Adjacent Duplicates In String](https://github.com/solomonovum/algorithms/blob/master/leetcode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py)
+* [1365. How Many Numbers Are Smaller Than the Current Number
+](https://github.com/solomonovum/algorithms/blob/master/leetcode/1365_How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.py)
+
 
 ### jung ol
 * [1230. House of gifts](https://github.com/solomonovum/algorithms/blob/master/JO/1230%20:%20House%20of%20gifts.cpp)
