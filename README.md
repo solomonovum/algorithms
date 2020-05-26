@@ -25,6 +25,7 @@ organizing useful algorithms by c++, go, python3
 * [771. Jewels and Stones](https://github.com/solomonovum/algorithms/blob/master/leetcode/771_Jewels%20and%20Stones.go)
 * [733. Flood Fill](https://github.com/solomonovum/algorithms/blob/master/leetcode/733_Flood%20Fill.py)
 * [804. Unique Morse Code Words](https://github.com/solomonovum/algorithms/blob/master/leetcode/804_Unique%20Morse%20Code%20Words.py)
+* [832. Flipping an Image](https://github.com/solomonovum/algorithms/blob/master/leetcode/832_Flipping%20an%20Image.py)
 * [844. Backspace String Compare](https://github.com/solomonovum/algorithms/blob/master/leetcode/844_Backspace%20String%20Compare.py)
 * [872. Leaf-Similar Trees](https://github.com/solomonovum/algorithms/blob/master/leetcode/872_Leaf-Similar%20Trees.py)
 * [897. Increasing Order Search Tree](https://github.com/solomonovum/algorithms/blob/master/leetcode/897_Increasing%20Order%20Search%20Tree.py)
