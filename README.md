@@ -38,6 +38,7 @@ organizing useful algorithms by c++, go, python3
 * [1295. Find Numbers with Even Number of Digits](https://github.com/solomonovum/algorithms/blob/master/leetcode/1295_Find%20Numbers%20with%20Even%20Number%20of%20Digits.py)
 * [1365. How Many Numbers Are Smaller Than the Current Number
 ](https://github.com/solomonovum/algorithms/blob/master/leetcode/1365_How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.py)
+* [1450. Number of Students Doing Homework at a Given Time](https://github.com/solomonovum/algorithms/blob/master/leetcode/1450_Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time.py)
 
 
 ### jung ol
