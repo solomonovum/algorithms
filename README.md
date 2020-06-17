@@ -35,6 +35,7 @@ organizing useful algorithms by c++, go, python3
 * [1021. Remove Outermost Parentheses](https://github.com/solomonovum/algorithms/blob/master/leetcode/1021_Remove%20Outermost%20Parentheses.py) 
 * [1047. Remove All Adjacent Duplicates In String](https://github.com/solomonovum/algorithms/blob/master/leetcode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py)
 * [1122. Relative Sort Array](https://github.com/solomonovum/algorithms/blob/master/leetcode/1122_Relative%20Sort%20Array.py)
+* [1266. Minimum Time Visiting All Points](https://github.com/solomonovum/algorithms/blob/master/leetcode/1266_Minimum%20Time%20Visiting%20All%20Points.py)
 * [1295. Find Numbers with Even Number of Digits](https://github.com/solomonovum/algorithms/blob/master/leetcode/1295_Find%20Numbers%20with%20Even%20Number%20of%20Digits.py)
 * [1365. How Many Numbers Are Smaller Than the Current Number
 ](https://github.com/solomonovum/algorithms/blob/master/leetcode/1365_How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.py)
